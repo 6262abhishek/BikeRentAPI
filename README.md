@@ -1,12 +1,12 @@
 <h1>About This Program</h1>
 <p>This is a simple REST API for Bike Rental Service created using  Spring Boot. It includes
-<li>
-  <ul>Adding Bike Information, including rental status.</ul>
-  <ul>Fetching Information Of All Bikes.</ul>
-  <ul>Fetching Information Of A Particular Bike.</ul>
-  <ul>Updation Bike Information.</ul>
-  <ul>Deleting Bike Information.</ul>
-</li>
+<ul>
+  <li>Adding Bike Information, including rental status.</li>
+  <li>Fetching Information Of All Bikes.</li>
+  <li>Fetching Information Of A Particular Bike.</li>
+  <li>Updation Bike Information.</li>
+  <li>Deleting Bike Information.</li>
+</ul>
   Methods, End Points And Description Are Given Below.
 </p>
 <center>
