@@ -21,7 +21,7 @@
 <td>GET</td>
 <td>http://localhost:8080/api/bikes/{id}</td>
 
-    <td>Fetch Information Of A Particular Bike Using ID.</td>
+ <td>Fetch Information Of A Particular Bike Using ID.</td>
 </tr>
 <tr>
 <td>PUT</td>
