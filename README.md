@@ -4,7 +4,7 @@
 <table>
 <r>
   <th><h3>METHOD</h3></th>
-   <th><h3>METHOD</h3></th>
+   <th><h3>ENDPOINT</h3></th>
   <th><h3>DESCRIPTION</h3></th>
 </r>
 <tr>
