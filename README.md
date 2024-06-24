@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td>DELETE</td>
-<td>http://localhost:8080/api/bikes</{id}td>
+<td>http://localhost:8080/api/bikes/{id}</{id}td>
   <td>Delete The Bike Information Using ID.</td>
 </tr>
   
