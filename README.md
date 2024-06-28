@@ -76,5 +76,4 @@
 <h1>8. Database </h1>
 <img src="SCREENSHOT/Capture9.PNG"/>
 <hr>
-<h1 style="color:red;">Abhishek Kumar</h1>
-
+<h3>Developed By Abhishek Kumar</h3>
