@@ -49,6 +49,6 @@
 </table>
 </center>
 <h1>Folder Structure</h1>
-<img src="Capture.PNG" />
+
 <h1 style="color:red;">Abhishek Kumar</h1>
 
