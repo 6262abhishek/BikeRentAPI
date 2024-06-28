@@ -1,5 +1,5 @@
 <h1>About This Program</h1>
-<p>This is a simple REST API for Bike Rental Service created using  Spring Boot. It includes
+<p>This is a simple REST API for Bike Rental Service created using  Spring Boot and MySQL. It includes
 <ul>
   <li>Adding Bike Information, including rental status.</li>
   <li>Fetching Information Of All Bikes.</li>
@@ -48,7 +48,30 @@
   
 </table>
 </center>
-<h1>Folder Structure</h1>
-
+<hr>
+<h1>1. Folder Structure</h1>
+<img src="SCREENSHOT/Capture1.PNG"/>
+<hr>
+<h1>2. Set The Application Properties</h1><p> (For Mysql)</p>
+<img src="SCREENSHOT/Capture2.PNG"/>
+<hr>
+<h1>3. Adding New Bike Information Using POST Method</h1>
+<img src="SCREENSHOT/Capture3.PNG"/>
+<hr>
+<h1>4. Displaying All Bike Information Using GET Method</h1>
+<img src="SCREENSHOT/Capture4.PNG"/>
+<hr>
+<h1>5. Displaying A Particular Bike Information By Id Using GET Method</h1>
+<img src="SCREENSHOT/Capture5.PNG"/>
+<hr>
+<h1>6. Showing Validation By Giving Wrong ID</h1>
+<img src="SCREENSHOT/Capture6.PNG"/>
+<hr>
+<h1>7. Updating Bike Information By Id Using PUT Method</h1>
+<img src="SCREENSHOT/Capture7.PNG"/>
+<hr>
+<h1>7. Deleting Bike Information By Id Using DELETE Method</h1>
+<img src="SCREENSHOT/Capture8.PNG"/>
+<hr>
 <h1 style="color:red;">Abhishek Kumar</h1>
 
