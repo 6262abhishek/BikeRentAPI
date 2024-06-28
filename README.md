@@ -73,5 +73,8 @@
 <h1>7. Deleting Bike Information By Id Using DELETE Method</h1>
 <img src="SCREENSHOT/Capture8.PNG"/>
 <hr>
+<h1>8. Database </h1>
+<img src="SCREENSHOT/Capture9.PNG"/>
+<hr>
 <h1 style="color:red;">Abhishek Kumar</h1>
 
